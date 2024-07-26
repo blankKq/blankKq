@@ -11,11 +11,9 @@
 - ⚡ Fun fact:喜欢看动漫，喜欢看小说，喜欢听音乐，喜欢看电影，喜欢做游戏，喜欢打羽毛球
 
 
-<img align="center" src="./images/github-contribution-grid-snake.svg" style="max-width: 90%;">
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/blankKq)
-[![Email](https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru)](1287986063@qq.com)
-[![](https://img.shields.io/badge/CSDN-吃瓜的瓜农-blue.svg)](https://blog.csdn.net/weixin_41804512)
+[![Email](https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru)](1653571991@qq.com)
+[![](https://img.shields.io/badge/CSDN-blank-blue.svg)](https://blog.csdn.net/hhkongbai?type=blog)
 ![Profile views](https://views.whatilearened.today/views/github/blankKq/views.svg)
 
 
