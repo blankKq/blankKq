@@ -42,6 +42,6 @@
 <a href="https://github.com/blankKq/node-reptile-beike">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=blankKq&repo=node-reptile-beike&theme=buefy" />
 </a>
-<a href="https://github.com/blankKq/Python_Spider_All">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=blankKq&repo=Python_Spider_All&theme=buefy" />
+<a href="https://github.com/blankKq/vpn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=blankKq&repo=vpn&theme=buefy" />
 </a>
